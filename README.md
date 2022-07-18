@@ -1,5 +1,5 @@
 # SensorFusion
-Data fusion solutions for IMU sensors in MATLAB
+Data fusion solution for IMU sensors in MATLAB
 
 Run ArduinoQuaternion first to get the biases (sensors have run-to-run biases). Then run StateOfTheArtComparison and see the difference to MATLAB's own imufilter implementation
 
