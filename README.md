@@ -5,7 +5,7 @@ Run ArduinoQuaternion first to get the biases (sensors have run-to-run biases). 
 
 Hardware config: 
 
-Arduino Nano 3
+Arduino Nano 3 + 
 MPU - 6050 (accel + gyro)
 
 <p align="center">
