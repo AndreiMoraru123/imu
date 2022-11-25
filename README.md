@@ -18,3 +18,8 @@ MPU-6050 (accel + gyro)
 </p>
 
 ![image](https://user-images.githubusercontent.com/81184255/179507342-5f3b7f15-19e0-4187-96d0-5f9744cfb9d0.png)
+
+
+Here is the written version of all of this (AQTR 2022):
+
+[AQTR_2022_paper_96.pdf](https://github.com/AndreiMoraru123/SensorFusion/files/10094538/AQTR_2022_paper_96.pdf)
