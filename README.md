@@ -6,15 +6,16 @@
 
 Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biases). Then run `StateOfTheArtComparison.m` to see the differences between this solution and MATLAB's own `imufilter` implementation.
 
-# Harware Config: Arduino Nano 3 + MPU-6050 (accel & gyro)
+##  Harware Config: Arduino Nano 3 + MPU-6050 (accel & gyro)
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/81184255/179507012-5037c3da-6fbf-4166-a7c0-cd539bf88132.png" width="500"/>
+<p align="center">
+
+  Multi                      |           Purpose             
+  :-------------------------:|:-------------------------:
+   <img src="https://user-images.githubusercontent.com/81184255/179507012-5037c3da-6fbf-4166-a7c0-cd539bf88132.png" width="250"/> | <img src="https://user-images.githubusercontent.com/81184255/214922966-faf0d4bd-be57-43b5-9d6a-33a71f420faa.png" width="250"/>
+   
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/81184255/214922966-faf0d4bd-be57-43b5-9d6a-33a71f420faa.png" width="500"/>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81184255/179507307-474d4e89-54a0-45c0-b766-2c8e626e5eac.gif" width="1000"/>
