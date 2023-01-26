@@ -6,14 +6,14 @@
 
 Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biases). Then run `StateOfTheArtComparison.m` and see the difference between this solution and MATLAB's own imufilter implementation.
 
-# Arduino Nano 3 + MPU-6050 (accel & gyro)
+# Harware Config: Arduino Nano 3 + MPU-6050 (accel & gyro)
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/81184255/179507012-5037c3da-6fbf-4166-a7c0-cd539bf88132.png" width="500"/>
 </p>
 
-<p align="right">
-  <img src="hhttps://user-images.githubusercontent.com/81184255/214922263-f54cdbfd-9410-41e4-8a0f-d2dfc5dcf0c0.png" width="500"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/81184255/214922966-faf0d4bd-be57-43b5-9d6a-33a71f420faa.png" width="500"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@ Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biase
 </p>
 
 ![image](https://user-images.githubusercontent.com/81184255/179507342-5f3b7f15-19e0-4187-96d0-5f9744cfb9d0.png)
-
 
 Here is the written version of all of this (AQTR 2022):
 
