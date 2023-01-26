@@ -4,7 +4,7 @@
 
 ## Data fusion solution for IMU sensors in MATLAB
 
-Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biases). Then run `StateOfTheArtComparison.m` and see the difference between this solution and MATLAB's own imufilter implementation.
+Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biases). Then run `StateOfTheArtComparison.m` to see the differences between this solution and MATLAB's own `imufilter` implementation.
 
 # Harware Config: Arduino Nano 3 + MPU-6050 (accel & gyro)
 
