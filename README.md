@@ -1,4 +1,4 @@
-# Sensor Fusion
+# Sensor Fusion for Inertial Measurement Unit MPU-6050
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
