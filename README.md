@@ -10,7 +10,7 @@ Run `ArduinoQuaternion.m` first to get the biases (sensors have run-to-run biase
 
 <p align="center">
 
-  Multi                      |           Purpose             
+  Hardware                   |                    Specs             
   :-------------------------:|:-------------------------:
    <img src="https://user-images.githubusercontent.com/81184255/179507012-5037c3da-6fbf-4166-a7c0-cd539bf88132.png" width="400"/> | <img src="https://user-images.githubusercontent.com/81184255/214922966-faf0d4bd-be57-43b5-9d6a-33a71f420faa.png" width="400"/>
    
